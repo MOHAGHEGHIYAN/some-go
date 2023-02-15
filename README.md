@@ -3,6 +3,7 @@
 This repo contains some programs in go language such as:
 
 - dice_roller.go
+- calculator_with_iota.go
 
 ## Run
 
